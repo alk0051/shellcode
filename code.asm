@@ -33,7 +33,7 @@ _bind:
     push    byte 16             ; tamanho dos argumentos
     push    ecx                 ; endereço dos argumentos
     push    edi                 ; file decriptor
-    mov     ecx, esp            ; move address of arguments into ecx
+    mov     ecx, esp            ; move o enedereço dos argumentos para ecx
     mov     ebx, 2              ; BIND
     mov     eax, 102            ; SYS_SOCKETCALL
     int     80h                 ; chama o kernel
