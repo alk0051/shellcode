@@ -11,8 +11,9 @@ Para criarmos um shellcode, primeiramente precisamos criar um código em assembl
 Em seguida compilamos o codigo e abrimos o executável em um debugger. Assim podemos ver os bytes que precisamos para montar o shellcode.
 
 
+![Pasted image 20220620033644](https://user-images.githubusercontent.com/59076746/174547182-500b5f6f-5c1d-4525-9844-b60aa8c85998.png)
 
-![[Pasted image 20220620033644.png]]
+
 
 Assim temos os bytes:
 
@@ -40,4 +41,4 @@ Em um uso real, o shellcode quase sempre é usado junto com um exploit (codigo q
 
 <br />
 <br />
-<small>Fontes: https://gitbook.ganeshicmc.com/pwning/shellcode, https://en.wikipedia.org/wiki/Shellcode:</small>
+<small>Fontes: https://gitbook.ganeshicmc.com/pwning/shellcode, https://en.wikipedia.org/wiki/Shellcode, https://www.exploit-db.com/shellcodes</small>
