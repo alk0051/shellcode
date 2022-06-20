@@ -37,7 +37,7 @@ main(int argc, char *argv[])
 
 Ao compilar e executar esse código C temos um socket inicializado.
 
-Em um uso real, o shellcode quase sempre é usado junto com um exploit (codigo que explora alguma falha).
+Em um uso real, o shellcode quase sempre é usado junto a um exploit (codigo que explora alguma falha).
 
 <br />
 <br />
