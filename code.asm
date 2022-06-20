@@ -1,9 +1,9 @@
-;       Arquitetura E Organização De Computadores S73    ;
-;       Alunos: Alan Lima de Campos e Júlia Lamas        ;
-;       RA: 2191070,                                     ;
-;                                                        ;
-;                                                        ;
-;                    SOCKETS e Shellcode                 ;
+;       Arquitetura E Organização De Computadores S73        ;
+;       Alunos: Alan Lima de Campos e Júlia Lamas da Cunha   ;
+;       RA: 2191070, 2302420                                 ;
+;                                                            ;
+;                                                            ;
+;                    SOCKETS e Shellcode                     ;
 
 
 SECTION .text
