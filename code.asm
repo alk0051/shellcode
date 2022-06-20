@@ -1,5 +1,5 @@
 ;       Arquitetura E Organização De Computadores S73    ;
-;       Alunos: Alan Lima de Campos e Júlia lamas        ;
+;       Alunos: Alan Lima de Campos e Júlia Lamas        ;
 ;       RA: 2191070,                                     ;
 ;                                                        ;
 ;                                                        ;
